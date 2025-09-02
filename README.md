@@ -1,1 +1,1 @@
-# code_alpha-task-1
+# code_alpha-task-1 image gallery 
